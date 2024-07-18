@@ -3,6 +3,10 @@
 [[Video Tutorial](https://youtu.be/tpiCO-el-ds/0.jpg)]
 
 This tool simplifies the process of extracting position data from multiple JSON files.
+ 
+[https://discord.gg/unicore](url) - Uni Empire
+
+[https://discord.gg/XdN7GkGmZW](url) - My Discord
 
 ## Features
 
@@ -26,6 +30,3 @@ This tool simplifies the process of extracting position data from multiple JSON 
 
 
 **Note:** This tool is designed for JSON files with a "position" key containing three numerical values (x, y, z).
-
-[https://discord.gg/unicore](url)
-[https://discord.gg/XdN7GkGmZW](url) - My Discord
