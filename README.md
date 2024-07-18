@@ -1,6 +1,6 @@
 # JSON Waypoint Extractor - Unicore for Genshin Impact.
 
-[![https://cdn.discordapp.com/attachments/1235981589155020873/1263567126489337998/1.mp4?ex=669ab416&is=66996296&hm=9271efc0e99e420b205710725a5b8e17bd78c92f989d40bc1e0d4b84bc4c4092&])
+[![Video Tutorial](https://img.youtube.com/vi/[tpiCO-el-ds]/0.jpg)](https://www.youtube.com/watch?v=[tpiCO-el-ds])
 
 This tool simplifies the process of extracting position data from multiple JSON files.
 
