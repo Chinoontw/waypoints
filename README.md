@@ -1,20 +1,28 @@
+# JSON Waypoint Extractor Unicore
 
-Software Update: JSON Waypoint Extractor (Korepi TP Pack to Unicore.)
+This tool simplifies the process of extracting position data from multiple JSON files.
 
-Key Features:
+## Features
 
-User-friendly interface: A simple dialog box lets you easily select the folder containing your JSON files.
-Automatic waypoint extraction: The script automatically scans all JSON files in the chosen folder and extracts position information (x, y, z coordinates).
-Organized output: The extracted waypoints are neatly organized into a new JSON file named "waypoints.json" within the same folder.
-Error handling: The script includes robust error handling to provide feedback on issues like invalid JSON files or missing position data.
-How to Use:
+* User-friendly interface
+* Automatic waypoint extraction
+* Organized output
+* Error handling
 
-Download: Obtain the uni.ese
-Run: Execute the exe
-Select folder: Choose the folder containing your JSON files when prompted.
-Wait: The script will process the files and create the "waypoints.json" output.
-Review: Open "waypoints.json" to view your extracted waypoint data.
-Important Note:
+## How to Use
 
-This script is designed for JSON files that contain a "position" key with a list of three numerical values (x, y, z).
-Ensure that your JSON files are valid and correctly formatted.
+1. Download the `uni.exe`.
+2.
+3. Choose the folder with your JSON files.
+
+**Note:** This tool is designed for JSON files with a "position" key containing three numerical values (x, y, z) and Unicore.cloud.
+
+## Changelog
+
+**Version 1.0**
+
+* **Initial Release:**
+    * Extracts position data (x, y, z) from JSON files.
+    * Creates a `waypoints.json` file with the extracted data.
+    * Includes error handling for invalid JSON and missing position data.
+
