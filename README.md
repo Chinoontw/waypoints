@@ -21,7 +21,7 @@ This tool simplifies the process of extracting position data from multiple JSON 
 ### How to Use
 1. Download `uni.exe` from the official source.
 2. Install JSON files from github
-[https://onedrive.live.com/?id=C16CCD8FBA56854E!365&cid=C16CCD8FBA56854E&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBazZGVnJxUHpXekJnbTFFZHE2dkJtN0hGb3FGP2U9ZzZiZVZM](https://onedrive.live.com/?id=C16CCD8FBA56854E!365&cid=C16CCD8FBA56854E&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBazZGVnJxUHpXekJnbTFFZHE2dkJtN0hGb3FGP2U9ZzZiZVZM](link)
+[https://github.com/Chinoontw/waypoints/releases/tag/software]
 3. Launch the user interface.
 4. Select the folder containing your files.
 
