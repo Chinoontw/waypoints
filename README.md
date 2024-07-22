@@ -14,8 +14,8 @@
 
 ### How to Use 📝
 
-1. Download the `uni.exe` file from the [latest release](link-to-your-release-page).
-2. Install the necessary JSON files from the [GitHub repository](https://github.com/Chinoontw/waypoints/releases/tag/software).
+1. Download the `uni.exe` file from the [latest release]([link-to-your-release-page](https://github.com/Chinoontw/waypoints/releases/tag/Unicore)).
+2. Install the necessary JSON files from the [GitHub repository](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate).
 3. Launch the application.
 4. Log in with your credentials (if saved).
 5. Select the folder(s) containing your JSON files.
