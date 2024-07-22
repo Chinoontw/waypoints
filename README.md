@@ -1,4 +1,3 @@
-
 ## Unicore Extractor v1.2
 
 ### New Features ✨
@@ -15,8 +14,8 @@
 
 ### How to Use 📝
 
-1. Download the `uni.exe` file from the [latest release](https://github.com/Chinoontw/waypoints/releases/download/untagged-c9bb6937045f7efaae60/extract.exe).
-2. Install the necessary JSON files from the [GitHub repository](https://github.com/Chinoontw/waypoints/releases/download/software/OneDrive_2024-07-18.zip).
+1. Download the `uni.exe` file from the [latest release](link-to-your-release-page).
+2. Install the necessary JSON files from the [GitHub repository](https://github.com/Chinoontw/waypoints/releases/tag/software).
 3. Launch the application.
 4. Log in with your credentials (if saved).
 5. Select the folder(s) containing your JSON files.
@@ -26,7 +25,7 @@
 
 ---
 
-[![Discord - Reimu](https://discordapp.com/api/guilds/1237907213411160114/widget.json)]([https://discord.gg/XdN7GkGmZW](https://discordapp.com/api/guilds/1237907213411160114/widget.json))
+[![Discord - Reimu](https://img.shields.io/discord/1237907213411160114?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XdN7GkGmZW)
 
 ---
 
