@@ -26,7 +26,7 @@
 
 ---
 
-[![Discord - Reimu](https://img.shields.io/discord/1126496650507137144?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XdN7GkGmZW)
+[![Discord - Reimu](https://img.shields.io/discord/1237907213411160114?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XdN7GkGmZW)
 
 ---
 
