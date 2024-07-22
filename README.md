@@ -1,29 +1,37 @@
-# JSON Waypoint Extractor - Unicore for Genshin Impact.
 
-[[Video Tutorial](https://youtu.be/tpiCO-el-ds/0.jpg)]
+## Unicore Extractor v1.2
 
-This tool simplifies the process of extracting position data from multiple JSON files.
- 
-[https://discord.gg/unicore](url) - Uni Empire
+### New Features ✨
 
-[https://discord.gg/XdN7GkGmZW](url) - My Discord
+* **Multiple Folder Selection:** You can now select and process waypoints from multiple folders at once.
+* **Console Output:** A console window has been added to provide detailed information about the extraction process, including any errors encountered and successful waypoint extractions.
+* **"Remember Me" Functionality:** The login screen now includes a "Remember Me" checkbox that saves your credentials for future use.
 
-## Unicore Extractor 1.1 Changelog & Update
+### Improvements 🛠️
 
-### New Features
-* **User-friendly interface:** A more intuitive interface for easier use.
-* **Automatic waypoint extraction:** Automatically detects and processes JSON files.
-* **Organized output:** Clear and structured presentation of extracted data.
+* **Enhanced JSON Validation:** The tool now performs stricter validation of JSON files, ensuring that only files with the correct "position" format are processed, improving accuracy and reducing errors.
+* **Improved Error Handling:** More robust error handling mechanisms have been implemented to provide clearer error messages and improve the overall user experience.
+* **Performance Optimization:** The extraction process has been optimized for faster processing of large numbers of JSON files, making it more efficient for handling bigger datasets.
 
-### Improvements
-* **Enhanced error handling:** Improved robustness to handle potential errors.
+### How to Use 📝
 
-### How to Use
-1. Download `uni.exe` from the official source.
-2. Install JSON files from github
-[https://github.com/Chinoontw/waypoints/releases/tag/software]
-3. Launch the user interface.
-4. Select the folder containing your files.
+1. Download the `uni.exe` file from the [latest release](https://github.com/Chinoontw/waypoints/releases/download/untagged-c9bb6937045f7efaae60/extract.exe).
+2. Install the necessary JSON files from the [GitHub repository](https://github.com/Chinoontw/waypoints/releases/download/software/OneDrive_2024-07-18.zip).
+3. Launch the application.
+4. Log in with your credentials (if saved).
+5. Select the folder(s) containing your JSON files.
+6. Click the "Extract Waypoints" button.
 
+**Note:** This tool is designed to work with JSON files that have a "position" key containing three numerical values (x, y, z).
 
-**Note:** This tool is designed for JSON files with a "position" key containing three numerical values (x, y, z).
+---
+
+[![Discord - Reimu](https://img.shields.io/discord/1126496650507137144?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XdN7GkGmZW)
+
+---
+
+**Changelog 1.1 (Reminder)**
+
+* **Improved GUI:** More modern and intuitive design.
+* **Dark Theme Support:** For better eye comfort.
+* **Minor Bug Fixes:** Improved stability and reliability.
