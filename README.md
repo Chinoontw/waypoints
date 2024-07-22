@@ -2,7 +2,6 @@
 
 ### New Features ✨
 
-* **Multiple Folder Selection:** You can now select and process waypoints from multiple folders at once.
 * **Console Output:** A console window has been added to provide detailed information about the extraction process, including any errors encountered and successful waypoint extractions.
 * **"Remember Me" Functionality:** The login screen now includes a "Remember Me" checkbox that saves your credentials for future use.
 
