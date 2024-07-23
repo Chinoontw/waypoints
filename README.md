@@ -1,19 +1,20 @@
-## Unicore Extractor v1.2
+**Json Waypoint Extractor - Akebi to Unicore v1.2.1 Changelog**
 
-### New Features ✨
+![Capture d’écran 2024-07-23 155002](https://github.com/user-attachments/assets/042101dc-1413-4b0a-8aff-27cb9a4e1c20)
 
-* **Console Output:** A console window has been added to provide detailed information about the extraction process, including any errors encountered and successful waypoint extractions.
-* **"Remember Me" Functionality:** The login screen now includes a "Remember Me" checkbox that saves your credentials for future use.
+**New Features :sparkles:**
 
-### Improvements 🛠️
+- **Handles Multiple JSON Structures:** The extractor now correctly handles JSON files where waypoints are either directly in the main dictionary or within a list, providing more flexibility with the input format.
 
-* **Enhanced JSON Validation:** The tool now performs stricter validation of JSON files, ensuring that only files with the correct "position" format are processed, improving accuracy and reducing errors.
-* **Improved Error Handling:** More robust error handling mechanisms have been implemented to provide clearer error messages and improve the overall user experience.
-* **Performance Optimization:** The extraction process has been optimized for faster processing of large numbers of JSON files, making it more efficient for handling bigger datasets.
+**Improvements :tools:**
+
+- **Enhanced Error Handling:** Improved error handling for invalid JSON files and waypoints missing the required keys. Error messages are now more specific and displayed in the console output.
+- **Empty Waypoint List Handling:** If no waypoints are found, an empty `waypoints.json` file is still created to prevent potential errors.
+- **Accurate Color Extraction:** The extractor now correctly extracts the `Color` value from the input JSON files.
 
 ### How to Use 📝
 
-1. Download the `uni.exe` file from the latest release[Download](https://github.com/Chinoontw/waypoints/releases/tag/Unicore).
+1. Download the `extract.exe` file from the [latest release](https://github.com/Chinoontw/waypoints/releases/tag/upd)
 2. Install the necessary JSON files from the [GitHub repository](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate).
 3. Launch the application.
 4. Log in with your credentials (if saved). - Username:Reimu Password:Reimu
@@ -28,8 +29,6 @@
 
 ---
 
-**Changelog 1.1 (Reminder)**
+**Changelog 1.2 (Reminder)**
 
-* **Improved GUI:** More modern and intuitive design.
-* **Dark Theme Support:** For better eye comfort.
-* **Minor Bug Fixes:** Improved stability and reliability.
+* **Issue : Fixed Crash for importing in Unicore**
